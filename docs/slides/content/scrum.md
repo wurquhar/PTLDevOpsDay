@@ -112,7 +112,9 @@ _The 3-5-3 formation represents 3 roles, 5 events (previously known as ceremonie
 1. Pass as many ping pong balls through all the team members.
 2. There must be "air time" between each pass.
 3. You cannot use any artificial containers.
-4. If you drop a ball, you lose a point.
+</br></br>
+#### Layout
+We'll have 3 rounds of 1 minute each. There will be 1 minute between each round where you can debrief on strategy, revise methods, and set the forecast for the next round.
 
 
 
@@ -122,11 +124,6 @@ _The 3-5-3 formation represents 3 roles, 5 events (previously known as ceremonie
 
 
 ![who-sprint-review](images/scrum/who-sprint-review.png)<!-- .element: class="image-no-shadow image-full-width " -->
-
-
-
-#### Scrum Board - Pet Battle
-![scrum-pb](images/scrum/scrum-pb.png)<!-- .element: class="image-no-shadow image-full-width " -->
 
 
 

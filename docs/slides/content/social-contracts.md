@@ -79,7 +79,6 @@ A Social Contract codifies behavior and expectations for the team members.<!--{.
 3) Together, review and group the behaviors.
 5) After reaching consensus, sign the contract.
 6) Display the contract in a visible place.
-7) Establish your team name (naming things is hard).
 <br/>
 
 If you work on multiple teams, think about the aspects of your Social Contract that are appropriate for the entire group so you can write the group social contract.<!--{.element: style="font-size: medium; font-weight: 600!important;"} -->
@@ -93,12 +92,12 @@ If you work on multiple teams, think about the aspects of your Social Contract t
 </br></br>
 
 1. In table groups, work together to:
-    - Choose a team name
     - Discuss how you want to work together this week
     - Write your Social Contract
-    - Record your team button
 </br></br>
-2. Think about any aspects of your Social Contract that are appropriate for the entire class so that we can write the class Social Contract.
+2. Think about any aspects of your Social Contract that are appropriate for the entire team so that we can write the team Social Contract for how we'll spend the next few days.
+</br></br>
+_Phrases are fine, sticky notes are your friend_
 
 </div>
 <div class="col" data-markdown>

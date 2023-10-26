@@ -7,41 +7,18 @@ TL500 <!-- {.element: class="title-color"} -->
 
 <!-- .slide: data-background-size="contain" data-background-image="images/kick-off/campfire-with-burning-wood-logs-and-flame-cartoon-vector-26874382.jpg" -->
 ## Welcome
+Welcome!
 
 
 
-#### Agile Faces
-
-Meet your classmates by collaboratively drawing each other's faces.
-
-![faces](images/kick-off/faces.png)
-
-
-
-## Exercise
-#### Gather your apparatus 🔬🧑‍🔬
-1. Take a large Post-it note and a Sharpie marker.
-2. Write your name on the top or bottom of the note (in portrait orientation).
+## Exercise - Animals
+![Draw an animal](images/kick-off/animals.png)<!-- {.element: class="inline-image"} -->
+</br></br>
+Draw a simple representation of an animal that you feel represents your current mood.
 
 
 
-
-## Exercise
-#### Choose someone you've never met before
-- Swap Post-it notes with your chosen partner <!-- {.element: class="fragment"  data-fragment-index="1"} -->
-- Set a 30 seconds timer<!-- {.element: class="fragment"  data-fragment-index="2"} -->
-- Draw a part of owner's face on the Post-it note <!-- {.element: class="fragment"  data-fragment-index="3"} -->
-  * Eyes <!-- {.element: class="fragment"  data-fragment-index="3"} -->
-- Swap back, admire the work, and then choose a new partner. <!-- {.element: class="fragment"  data-fragment-index="4"} -->
-- Repeat the process for more facial features <!-- {.element: class="fragment"  data-fragment-index="5"} -->
-  * Nose <!-- {.element: class="fragment"  data-fragment-index="5"} -->
-  * Mouth <!-- {.element: class="fragment"  data-fragment-index="6"} -->
-  * Hair <!-- {.element: class="fragment"  data-fragment-index="7"} -->
-  * Ears <!-- {.element: class="fragment"  data-fragment-index="8"} -->
-  * Chin / Facial hair <!-- {.element: class="fragment"  data-fragment-index="9"} -->
-
-
-
+## Breaking the Ice
 
 #### Why Use Ice Breakers?
 - Provides an effective way to start a team-building event
@@ -54,8 +31,13 @@ Meet your classmates by collaboratively drawing each other's faces.
 
 
 
-#### While you're all standing
-### The Next Five Days...
+## Back to the Animals!
+Introduce yourself to the group and share your animal.   
+- What is your name?
+- Where are you from?
+- What is your current role within your organization?
+- Show and Tell: Share your animal drawing
+
 
 
 
@@ -63,16 +45,8 @@ Meet your classmates by collaboratively drawing each other's faces.
 #### The room and the walls
 - [Backlog](https://openpracticelibrary.com/practice/backlog-refinement/)
 - [Work Visualization](https://openpracticelibrary.com/practice/visualisation-of-work/)
-- [Burndown](https://openpracticelibrary.com/practice/burndown/)
-![Chef Hands](images/kick-off/wtw.png) <!-- {.element: class="inline-image"} -->
 - [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
-- [Team Sentiment](https://openpracticelibrary.com/practice/team-sentiment/)
-- [Real Time Retro](https://openpracticelibrary.com/practice/realtime-retrospective/)
-- [Big Picture](https://openpracticelibrary.com/practice/the-big-picture/)
-- [Practice Corner]()
 - [Parking Lot (Car Park)](https://openpracticelibrary.com/practice/parking-lot-car-park/)
-- [Quote Wall](https://openpracticelibrary.com/practice/quote-wall/)
-- [Stop the World](https://openpracticelibrary.com/practice/stop-the-world-event/)
 
 
 
@@ -100,28 +74,12 @@ All of these things are Information Radiators - they display information in real
 
 
 
-## Exercise - Animals
-![Draw an animal](images/kick-off/animals.png)<!-- {.element: class="inline-image"} -->
-</br></br>
-Draw a simple representation of an animal that you feel represents your current mood.
-
-
-
-## Back to the Animals!
-Introduce yourself to the group and share your animal.   
-- What is your name?
-- Where are you from?
-- What is your current role within your organization?
-- Show and Tell: Share your animal drawing
-
-
-
 <!-- .slide: id="target-outcomes"-->
 ### Target Outcomes
 
 
 
-#### What are your expectations for the week?
+#### What are your expectations for the next few days?
 
 * Everyone grab a pen and a few sticky notes.
 * Individually write your expectations (one per sticky note).
@@ -144,49 +102,19 @@ Introduce yourself to the group and share your animal.
 
 ### Learning Target Outcomes
 #### _What are **our** Target Outcomes?_
-- Generate enthusiasm for DevOps culture and practices.
-- Explore all of the principle practices used in everyday discovery and delivery.
+##### _(At least for today)_
+- Kick-off these couple of days with some collaboration, new ideas, and new methods!
+- Generate enthusiasm for DevOps-inspired culture and practices you could use in your team!
 - Have fun!
 
 
 
-#### Target Outcomes - World Health Organization <!-- .element: class="title-bottom-left" --> 
-<!-- .slide: data-background-size="contain" data-background-image="images/kick-off/example-to-who.png" -->
+## Shifting gears
+#### _What's our agenda for the rest of the day?'_
+We're going to leverage a couple of information radiators to track or progress today starting with...
 
 
 
-### Exercise - Team Formation
-* Form a straight line across the room in order of relative technical experience in development engineering practices.
-* Assign each person a number, 1,2,3, or 4, to divide the group into balanced teams.
-* Each member assigned the same number is on the same team 
+###
+<!-- .slide: data-background-size="contain" data-background-image="images/pet-battle-lightning-talk/pb-backlog.png", class="white-style" -->
 
-
-
-
-<!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
-### Related & Used Practices
-<div class="container">
-<div class="col" data-markdown>
-
-- Practice Corner
-- [Parking Lot (Car Park)](https://openpracticelibrary.com/practice/parking-lot-car-park/)
-- [Quote Wall](https://openpracticelibrary.com/practice/quote-wall/)
-- [Stop the world](https://openpracticelibrary.com/practice/stop-the-world-event/)
-- [Ice Breakers](https://openpracticelibrary.com/practice/ice-breakers/)
-- Team Forming
-- [Information Radiators](https://openpracticelibrary.com/practice/visualisation-of-work/)
-   
-</div>
-<div class="col" data-markdown>
-
-- [Backlog](https://openpracticelibrary.com/practice/backlog-refinement/)
-- [Work Visualization](https://openpracticelibrary.com/practice/visualisation-of-work/)
-- [Burndown](https://openpracticelibrary.com/practice/burndown/)
-- [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/)
-- [Team Identity](https://openpracticelibrary.com/practice/team-identity/)
-- [Team Sentiment](https://openpracticelibrary.com/practice/team-sentiment/)
-- [Real Time Retro](https://openpracticelibrary.com/practice/realtime-retrospective/)
-- [Big Picture](https://openpracticelibrary.com/practice/the-big-picture/)
-
-</div>
-</div>

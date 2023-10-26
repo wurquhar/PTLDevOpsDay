@@ -75,24 +75,6 @@ continuous delivery of valuable software.
 
 
 
-### Exercise - Pocket-sized Principles
-Working in teams
-1. On a piece of paper draw 12 boxes.
-2. For each box, write 2 or 3 words that effectively capture each of the 12 principles.
-
-http://tastycupcakes.org/2010/01/pocket-sized-principles/ <!-- {.element: class="small"} -->
-
-
-
-### Pocket-sized Principles Examples
-| | | | |
-|---|---|---|---|
-| 1. Satisfy the customer | 2. Welcome change | 3. Deliver frequently | 4. Work together |
-| 5. Trust and support | 6. Face-to-face conversation | 7. Working software | 8. Sustainable development |
-| 9. Continuous attention | 10. Maintain simplicity | 11. Self-organizing teams | 12. Reflect and adjust |
-| | | | |
-
-
 
 ## What are the Benefits of Agile?
 
@@ -118,13 +100,11 @@ The agile approach can minimize risk by getting a working piece of software into
 
 
 
-#### Agile Product Ownership in a Nutshell
+### Agile Product Ownership in a Nutshell
+#### Did everyone watch this video already? Katie and Pat mentioned it's made the rounds amongst the Pod...
 <iframe src="https://www.youtube.com/embed/502ILHjX9EE" frameborder="0" allowfullscreen></iframe>
-
-
-
-#### Being Vs Doing Agile <!-- .element: class="title-bottom-left" -->
-<!-- .slide: data-background-size="contain" data-background-image="images/agile/being-vs-doing.png", class="white-style" -->
+</br></br>
+If so, could someone summarize what they took away from it? Could be about process, product ownership, value based selections...or anything!
 
 
 

@@ -157,7 +157,7 @@ _But they are done poorly and teams do not follow up on identified items_
 
 
 ### Exercise - Daily Retrospective
-Reflect on the first day of class and make adjustments to continuously improve.
+Reflect on the first few months of working together as a Pod using the retrospective template in your respective team areas. We'll come together at the end and discuss!
 
 
 
