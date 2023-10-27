@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
-## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
+## DevOps(ish) Day! <!-- {.element: class="course-title"} -->
 ### Kick Off <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Modified TL500 course for the GTM Skills Pod<!-- {.element: class="title-color"} -->
 
 
 
@@ -100,9 +100,8 @@ All of these things are Information Radiators - they display information in real
 
 
 
-### Learning Target Outcomes
+### Today's Target Outcomes
 #### _What are **our** Target Outcomes?_
-##### _(At least for today)_
 - Kick-off these couple of days with some collaboration, new ideas, and new methods!
 - Generate enthusiasm for DevOps-inspired culture and practices you could use in your team!
 - Have fun!

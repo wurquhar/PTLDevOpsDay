@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
-## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
-### UX <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+## DevOps(ish) Day! <!-- {.element: class="course-title"} -->
+### Stakeholder Engagement <!-- {.element: class="title-color"} -->
+Modified TL500 course for the GTM Skills Pod <!-- {.element: class="title-color"} -->
 
 
 
@@ -48,7 +48,7 @@ We use empathy maps during the facilitation of product discovery, for user resea
 ### Pop Quiz
 
 ![Question](images/ux/question.png) <!-- {.element: class="" style="border:none; box-shadow:none; height:300px; float:left;"} -->
-<p align="left">The main responsibility of a UX designer is to create nice-looking user interfaces.</p><!-- {.element: class="" style="margin-top: 120px;"} -->
+<p align="left">The main responsibility of a product / user experience (ux) designer is to create nice-looking user interfaces.</p><!-- {.element: class="" style="margin-top: 120px;"} -->
 
 <p align="left">TRUE?  or FALSE?</p>
 
