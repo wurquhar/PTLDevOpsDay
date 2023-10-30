@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="images/RH_NewBrand_Background.png"  -->
-## DevOps Culture and Practice <!-- {.element: class="course-title"} -->
+## DevOps(ish) Day! <!-- {.element: class="course-title"} -->
 ### Retrospectives <!-- {.element: class="title-color"} -->
-TL500 <!-- {.element: class="title-color"} -->
+Modified TL500 course for the GTM Skills Pod <!-- {.element: class="title-color"} -->
 
 
 
